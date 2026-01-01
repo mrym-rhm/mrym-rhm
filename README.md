@@ -43,7 +43,7 @@ I care about **clean abstractions**, measurable impact, and building software th
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="36" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discordapp.com/users/maryam.rahimi94" target="_blank" rel="noopener">
+  <a href="https://discordapp.com/users/maryam.rahimi" target="_blank" rel="noopener">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" width="36" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
