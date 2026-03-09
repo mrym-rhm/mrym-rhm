@@ -1,11 +1,12 @@
-<h2 align="center">Maryam Rahimi</h2>
-
+<!-- HEADER -->
 <p align="center">
-  <em>Senior Full-Stack JavaScript Engineer</em>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Maryam%20Rahimi&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Senior%20engineer%20who%20thinks%20in%20systems,%20not%20buzzwords&descSize=20&descAlignY=65" width="100%" />
 </p>
 
 <p align="center">
-  <strong>Senior engineer who thinks in systems, not buzzwords</strong>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=4DA3FF&center=true&vCenter=true&width=600&lines=Senior+Full-Stack+JavaScript+Engineer;React+%7C+Next.js+%7C+Node.js;Building+Scalable+Cloud+Applications;AI-powered+Web+Applications)](https://git.io/typing-svg)
+
 </p>
 
 <p align="center">
@@ -14,44 +15,57 @@
 
 ---
 
-🧠I design and ship **production-grade web systems** with a focus on **scalability, clarity, and long-term maintainability**.
+### 🧠 Engineering
 
-What I work on:
-- 🧩 Frontend architecture, design systems, monorepos  
-- ⚙️ API-driven backends and data-heavy applications  
-- 🤖 AI integrations (LLMs, embeddings) in real products  
-- ⚡ Performance, accessibility, and developer experience  
+I build **production systems that last**.
 
-I care about **clean abstractions**, measurable impact, and building software that **ages well**.
+Most of my work sits at the intersection of:
+
+- **Frontend architecture** — scalable React platforms, design systems, monorepos  
+- **Backend systems** — API-driven services and data-heavy applications  
+- **AI in production** — LLM integrations, embeddings, intelligent workflows  
+- **Performance & DX** — fast interfaces, accessible UI, and developer-friendly tooling  
+
+I care about **clear abstractions, thoughtful architecture, and software that ages well**.
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=mrym-rhm&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrym-rhm&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,vite,aws,ai,next,vue,python,graphql,docker,nginx,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=react,next,nodejs,ts,aws,docker,postgres,mongodb" />
 </p>
 
 <p align="center">
-  <em>Systems over shortcuts · Signal over noise</em>
+  <em>Frontend platforms · Backend systems · Cloud infrastructure</em>
 </p>
 
-
 ---
-
 
 <p align="center">
   <a href="https://linkedin.com/in/maryam-rahimi94" target="_blank" rel="noopener">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="36" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="36" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discordapp.com/users/maryam.rahimi" target="_blank" rel="noopener">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" width="36" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:maryam.rahimie94@gmail.com">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" width="36" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="36" />
   </a>
 </p>
 
 <p align="center">
-  <em>Let’s connect — async or real-time.</em>
+  <em>Always open to thoughtful conversations about systems, architecture, and building great software.</em>
 </p>
