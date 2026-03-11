@@ -30,22 +30,6 @@ I care about **clear abstractions, thoughtful architecture, and software that ag
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=mrym-rhm&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrym-rhm&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,next,nodejs,ts,aws,docker,postgres,mongodb" />
 </p>
